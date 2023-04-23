@@ -1,7 +1,7 @@
 # Calculator
 C言語でターミナル上にATMを実装するプログラム．
 
-![実行の様子](./preview.gif)
+![実行の様子](./preview2.gif)
 
 # 実行方法
 コンパイル: ターミナルで`gcc calculator.c -o calculator -lcurses -lm`
